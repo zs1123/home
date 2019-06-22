@@ -1,21 +1,11 @@
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-formula1: $$n==x$$
 
-formula2: $$n!=x$$
-
-formula3: (m==y)
-
-formula4: [m!=y]
-
-formula5: \(k==z\)
-
-formula6: \[k!=z\]
- 
 ## Welcome to GitHub Pages
 
 $$
-F(w) = \int_{-\infty}^{+\infty}f(t)e^{-jwt}dt
+F(w) = \int_{-\infty}^{+\infty}f(t)e^{-jwt}dt 
 $$
+
 
 
 
@@ -42,10 +32,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![avatar](./img/girl.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![](./img/girl.png)
 
 ### Jekyll Themes
 

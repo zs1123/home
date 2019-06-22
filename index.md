@@ -10,7 +10,7 @@ formula4: [m!=y]
 formula5: \(k==z\)
 
 formula6: \[k!=z\]
-
+ 
 ## Welcome to GitHub Pages
 
 $$

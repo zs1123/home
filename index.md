@@ -14,7 +14,7 @@ formula6: \[k!=z\]
 ## Welcome to GitHub Pages
 
 $$
-F(w) = \int_{-\infty}^{+\infty}f(x)e^{-jwt}dt
+F(w) = \int_{-\infty}^{+\infty}f(t)e^{-jwt}dt
 $$
 
 

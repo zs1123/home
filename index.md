@@ -5,8 +5,8 @@ $$
 F(w) = \int_{-\infty}^{+\infty}f(t)e^{-jwt}dt 
 $$
 
-[list problems](./list_problem.md)
-
+[list problems](./list_problem.md)  
+[algorithm](./algorithm.md)
 
 
 

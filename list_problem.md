@@ -40,7 +40,7 @@
    };
    ```
 
-2. **如果存在环，找出环的入口点 **  [leetcode 142](https://leetcode.com/problems/linked-list-cycle-ii)
+2. **如果存在环，找出环的入口点**  [leetcode 142](https://leetcode.com/problems/linked-list-cycle-ii)
 
    Slow pointer 每次移动 1 步, fast pointer 每次移动 2 步, 从 head 同时出发.
    记环的入口 index 为 $e$(entrance), 第一次相遇时 index 为 $m$(meeting), 环的长度为 $l$ (loop length).

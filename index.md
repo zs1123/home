@@ -7,6 +7,7 @@ $$
 
 [list problems](./list_problem.md)  
 [algorithm](./algorithm.md)
+[template](./template.md)
 
 
 
